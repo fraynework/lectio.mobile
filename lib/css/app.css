@@ -755,9 +755,11 @@ section,
 				
 		/* top gap */
 		#pgWeeks [data-role="articleContent"] .articleNav				{ margin-top:18px; margin-left:40px; }
+		
+		/*
 		#pgWeeks [data-role="articleContent"] .articleNav#articleNav4,
 		#pgWeeks [data-role="articleContent"] .articleNav#articleNav5 	{ margin-top:-32px; }
-		
+		*/
 			/* a */
 			#pgWeeks [data-role="articleContent"] .articleNav a { 
 				color:#6e288f!important; text-decoration:none; }
