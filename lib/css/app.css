@@ -583,8 +583,8 @@ section,
 			/* sublabel */
 			#pgHome .nav .navItem .sublabel {
 				display:block; position:absolute; left:78px; right:15px; top:50%; width:auto; height:30px; margin:-15px 0 0 0; padding:0; overflow:hidden;
-				opacity:0.3;
-				font-size:18px; }
+				opacity:0.6;
+				font-size:17px; }
 	
 		/* interaction */
 		#pgHome .nav .navItem.active { background:rgba(255,255,255,0.8); }
